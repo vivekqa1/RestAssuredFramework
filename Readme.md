@@ -82,6 +82,8 @@ Step 8: Generate extent reports - extent report utility. - testng.xml file
 
 Step 9: Add execution logs to track log of execution. Add logs - log4j2 dependancy, 
 
+Step 10: How to get url from properties file and run it 
+
 
 
 

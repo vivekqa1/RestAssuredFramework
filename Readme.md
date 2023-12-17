@@ -82,7 +82,17 @@ Step 8: Generate extent reports - extent report utility. - testng.xml file
 
 Step 9: Add execution logs to track log of execution. Add logs - log4j2 dependancy, 
 
-Step 10: How to get url from properties file and run it 
+Step 10: How to get url from properties file and run it - checkout classes UserServiceHelperFromProperties, endpoints.properties, com.api.test.property.UserTests.java
+
+Step 11: How to run project through Maven - Add two plugins in to pom.xml - maven-compiler-plugin and maven-surefire-plugin and add target testng.xml
+ 
+Step 12: Command for run -  mvn clean install test
+
+Step 13: Run project from command prompt/terminal: Install maven in your system. - set maven path - go to project location in terminal and run  mvn clean install test
+
+
+
+
 
 
 

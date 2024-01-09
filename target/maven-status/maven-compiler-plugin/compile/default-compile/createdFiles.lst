@@ -1,9 +1,0 @@
-com/api/utilities/Utils.class
-com/api/utilities/ExcelUtility.class
-com/api/utilities/ExtentReportManager.class
-com/api/constants/Endpoints.class
-com/api/utilities/DataProviders.class
-com/api/helpers/UserServiceHelper.class
-com/api/helpers/UserServiceHelperFromProperties.class
-com/api/model/User.class
-com/api/utilities/ConfigManager.class
